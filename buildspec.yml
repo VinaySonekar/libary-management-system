@@ -5,7 +5,7 @@ env:
     IMAGE_REPO_NAME: "book-management-service"
     IMAGE_TAG: "latest"
     AWS_DEFAULT_REGION: "us-east-1"
-    ACCOUNT_ID: "381492274187"
+    ACCOUNT_ID: "381491911099"
 
 phases:
   pre_build:
